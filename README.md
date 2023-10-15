@@ -33,4 +33,4 @@ analyze smart device usage data in order to gain insight into how people are alr
 Then, using this information, she would like high-level recommendations for how these trends can inform Bellabeat marketing strategy.
 
 
-#### To see the full Kaggle notebook with my analysis and recommendations, follow this [link]([https://pages.github.com/](https://www.kaggle.com/code/laurelgary3/bellabeat-case-study-with-r/notebook)https://www.kaggle.com/code/laurelgary3/bellabeat-case-study-with-r/notebook).
+#### To see the full Kaggle notebook with my analysis and recommendations, follow this [link](https://www.kaggle.com/code/laurelgary3/bellabeat-case-study-with-r/notebook).
